@@ -1,7 +1,7 @@
 # kottans_frontend
-- ## Task1
+- ## Task0
 Material was outstanding. I have heard about Git and GitHub and that is great that you found free courses and created this task.
-- ## Task2
+- ## Task1
 I learned a lot about internet, but some of material i have already known from "Computer Network" lessons in my university.
 Lessons about linux and server was especially interesting for me.
 
@@ -10,3 +10,8 @@ Lessons about linux and server was especially interesting for me.
 [Lesson 2.](https://github.com/Nick9707/kottans_frontend/blob/master/Task_1/exersise2.png?raw=true)
 
 [Lesson 3.](https://github.com/Nick9707/kottans_frontend/blob/master/Task_1/Screenshot%20from%202017-12-25%2020-09-45.png?raw=true)
+
+- ## Task2
+
+[Lesson 1.](https://github.com/Nick9707/kottans_frontend/blob/master/Task_02/Task1.png?raw=true)
+[Lesson 2.](https://github.com/Nick9707/kottans_frontend/blob/master/Task_02/Task2.png?raw=true)
