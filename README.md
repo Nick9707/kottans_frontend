@@ -16,3 +16,7 @@ Lessons about linux and server was especially interesting for me.
 [Lesson 1.](https://github.com/Nick9707/kottans_frontend/blob/master/Task_02/Task1.png?raw=true)
 
 [Lesson 2.](https://github.com/Nick9707/kottans_frontend/blob/master/Task_02/Task2.png?raw=true)
+
+- ## Task3
+
+[Lesson1.](https://github.com/Nick9707/kottans_frontend/blob/master/Task_03/Lesson1.png?raw=true)
