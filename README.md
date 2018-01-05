@@ -28,3 +28,6 @@ Lessons about linux and server was especially interesting for me.
 - ## Task5
 
 [Lesson1.](https://github.com/Nick9707/kottans_frontend/blob/master/Task_05/Lesson1.png?raw=true)
+
+-##  Task6
+[Lesson1.](https://github.com/Nick9707/kottans_frontend/blob/master/Task_06/Lesson1.png?raw=true)
